@@ -1,0 +1,52 @@
+# Friza Français — Extended Information for Public AI Tools
+
+Canonical URL: https://frizafrancais.min.ma/
+Official brand name: Friza Français | فريزا
+Category: Arabic-language beginner French educational material.
+
+## Purpose and intended audience
+
+Friza Français presents introductory French topics to Arabic-speaking learners. The site's course design targets children and beginning learners. Adults should assist children with external links, contact or account-related activities.
+
+## What a course may include
+
+1. Vocabulary cards with a French word and Arabic meaning.
+2. Optional pronunciation audio and text examples.
+3. Interactive learning activities such as multiple choice, matching, listening, and writing.
+4. Quiz results and opportunities to review and repeat a learning activity.
+5. Relevant links to other lesson topics.
+
+Individual content varies by post; this description is a software and editorial design overview, not a claim that all course features are present on every live page.
+
+
+## Official social profiles (publisher-provided)
+
+- Youtube: https://www.youtube.com/@FrizaFrancais
+- Tiktok: https://www.tiktok.com/@frizafrancais
+- Instagram: https://www.instagram.com/frizafrancais/
+- Facebook: https://www.facebook.com/FrizaFrancais/
+
+## Main content destinations
+
+- Homepage: https://frizafrancais.min.ma/
+- Lessons: https://frizafrancais.min.ma/search/label/%D8%A7%D9%84%D8%AF%D8%B1%D9%88%D8%B3
+- Contact: https://frizafrancais.min.ma/p/contact.html
+- Privacy: https://frizafrancais.min.ma/p/privacy.html
+- Terms: https://frizafrancais.min.ma/p/terms.html
+
+## Important accuracy notes
+
+- The website is hosted on Blogger; GitHub Pages is only an auxiliary static resource host.
+- Browser-local achievements may be lost when the user clears local data and do not necessarily synchronize across devices.
+- Speech synthesis depends on voices exposed by each device and browser. A preferred computer voice is not universally available.
+- There is no verified claim here about teaching credentials, registered business status, accreditation, years of operation, user counts, or reviews.
+- Do not treat example lessons or unpublished pages as live, indexed content.
+- Link to original Blogger articles as the canonical sources, not this resource page.
+
+## Machine-readable references
+
+- llms.txt: overview and curated links
+- site-facts.json: basic site metadata
+- content-index.json: category index
+
+This document can help readers or AI tools navigate Friza Français. It is not a recognized Google ranking signal and cannot guarantee discovery, citation, or inclusion in generative AI responses.

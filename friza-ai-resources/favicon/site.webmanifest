@@ -1,0 +1,27 @@
+{
+  "name": "فريزا - Friza Français | تعلم الفرنسية للأطفال",
+  "short_name": "فريزا",
+  "description": "دروس الفرنسية للأطفال باللغة العربية مع أنشطة تعليمية تفاعلية",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "https://frizafrancais.min.ma/",
+  "id": "https://frizafrancais.min.ma/",
+  "scope": "https://frizafrancais.min.ma/",
+  "display": "standalone",
+  "background_color": "#f6fbff",
+  "theme_color": "#0867ef",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/izikki/public/main/friza-ai-resources/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/izikki/public/main/friza-ai-resources/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
